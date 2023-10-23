@@ -2,5 +2,6 @@ streamlit
 pysqlite3
 openai
 pdfplumber
+python-docx
 pysqlite3-binary
 streamlit-extras
