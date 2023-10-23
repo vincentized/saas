@@ -1,4 +1,5 @@
 streamlit
+pysqlite3
 openai
 pdfplumber
 pysqlite3-binary
